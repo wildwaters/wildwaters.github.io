@@ -23,6 +23,14 @@
   </url>
   
   <url>
+    <loc>http://wildwater.hackinghistory.ca/slides/01-intro/</loc>
+  </url>
+  
+  <url>
+    <loc>http://wildwater.hackinghistory.ca/slides/02-what-is-a-river/</loc>
+  </url>
+  
+  <url>
     <loc>http://wildwater.hackinghistory.ca/article/about/</loc>
   </url>
   
@@ -49,6 +57,11 @@
   <url>
     <loc>http://wildwater.hackinghistory.ca/</loc>
     <lastmod>2018-09-04T15:06:15-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://wildwater.hackinghistory.ca/slides/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
