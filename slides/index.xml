@@ -25,7 +25,16 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://wildwater.hackinghistory.ca/slides/02-what-is-a-river/</guid>
-      <description>What is a River .underline { text-decoration: underline; }   if( window.location.search.match( /print-pdf/gi ) ) { var link = document.createElement( &#39;link&#39; ); link.rel = &#39;stylesheet&#39;; link.type = &#39;text/css&#39;; link.href = &#39;/vendor/revealjs//css/print/pdf.css&#39;; document.getElementsByTagName( &#39;head&#39; )[0].appendChild( link ); }    $.featherlight.defaults.closeOnClick=&#34;anywhere&#34;;    hello  &amp;ldquo;Water is the Driver of Nature&amp;rdquo; &amp;#x2013; Da Vinci, Thoughts on Art and Life, 1508(ish)   Da Vinci, 1508 (ish), THoughts on Art and Life Part of a broader investigation of water.</description>
+      <description>What is a River? .underline { text-decoration: underline; }   if( window.location.search.match( /print-pdf/gi ) ) { var link = document.createElement( &#39;link&#39; ); link.rel = &#39;stylesheet&#39;; link.type = &#39;text/css&#39;; link.href = &#39;/vendor/revealjs//css/print/pdf.css&#39;; document.getElementsByTagName( &#39;head&#39; )[0].appendChild( link ); }    $.featherlight.defaults.closeOnClick=&#34;anywhere&#34;;      &amp;ldquo;Water is the Driver of Nature&amp;rdquo; &amp;#x2013; Da Vinci, Thoughts on Art and Life, 1508(ish)   Da Vinci, 1508 (ish), THoughts on Art and Life Part of a broader investigation of water.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://wildwater.hackinghistory.ca/slides/03-liquid-history/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://wildwater.hackinghistory.ca/slides/03-liquid-history/</guid>
+      <description>03 Liquid History .underline { text-decoration: underline; }   if( window.location.search.match( /print-pdf/gi ) ) { var link = document.createElement( &#39;link&#39; ); link.rel = &#39;stylesheet&#39;; link.type = &#39;text/css&#39;; link.href = &#39;/vendor/revealjs//css/print/pdf.css&#39;; document.getElementsByTagName( &#39;head&#39; )[0].appendChild( link ); }    $.featherlight.defaults.closeOnClick=&#34;anywhere&#34;;      &amp;ldquo;The Thames is liquid history&amp;rdquo; - Response by John Burns to American who claimed greatness of Mississippi over the Thames.  what did the mean?</description>
     </item>
     
   </channel>
