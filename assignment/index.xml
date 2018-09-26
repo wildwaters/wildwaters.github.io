@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Assignments on Wild Waters</title>
-    <link>https://wildwater.hackinghistory.ca/assignment/</link>
+    <link>https://wildwater.github.io/assignment/</link>
     <description>Recent content in Assignments on Wild Waters</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 04 Sep 2018 15:06:15 -0400</lastBuildDate>
     
-	<atom:link href="https://wildwater.hackinghistory.ca/assignment/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://wildwater.github.io/assignment/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Overview</title>
-      <link>https://wildwater.hackinghistory.ca/assignment/overview/</link>
+      <link>https://wildwater.github.io/assignment/overview/</link>
       <pubDate>Tue, 04 Sep 2018 15:06:15 -0400</pubDate>
       
-      <guid>https://wildwater.hackinghistory.ca/assignment/overview/</guid>
+      <guid>https://wildwater.github.io/assignment/overview/</guid>
       <description>Assignments for NEW271 are linked here as I put them up on the site. See the Syllabus for an overview of assignments and their values.</description>
     </item>
     
     <item>
       <title>Encountering the Madawaska</title>
-      <link>https://wildwater.hackinghistory.ca/assignment/encountering-the-mad/</link>
+      <link>https://wildwater.github.io/assignment/encountering-the-mad/</link>
       <pubDate>Sat, 30 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://wildwater.hackinghistory.ca/assignment/encountering-the-mad/</guid>
+      <guid>https://wildwater.github.io/assignment/encountering-the-mad/</guid>
       <description>Note Sept 26, 2018: This version should now be final. If you see any errors, please let me know.
 Due Date: Paper 10/24; Participation before, during, and after trip
 This assignment involves participation in and reflection on an excursion to the Madawaska River, where we will learn about the history and geography of the region while camping on the river bank and taking white water skills instruction. Final dates of the trip have been set for Oct 12-14.</description>
@@ -33,10 +33,10 @@ This assignment involves participation in and reflection on an excursion to the 
     
     <item>
       <title>Encountering the Madawaska: Personal Risk Mitigation Plan</title>
-      <link>https://wildwater.hackinghistory.ca/assignment/risk-assessment/</link>
+      <link>https://wildwater.github.io/assignment/risk-assessment/</link>
       <pubDate>Sat, 30 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://wildwater.hackinghistory.ca/assignment/risk-assessment/</guid>
+      <guid>https://wildwater.github.io/assignment/risk-assessment/</guid>
       <description>This Pass/Fail assignment is worth 10% of your final grade, and is due 10/03.
 Before completing this assignment, carefully read the Trip Description (in the Trip Package), as well as Chapter 3 of Beames &amp;amp; Brown, Adventurous Learning, esp. pp. 24-25, 30-33.
 Risk Assessment &amp;ldquo;Risk&amp;rdquo; is not only a concept of recent origin (cf. Beames &amp;amp; Brown 2016), but a feature of many parts of our experience: physical, social, emotional, etc.</description>
@@ -44,10 +44,10 @@ Risk Assessment &amp;ldquo;Risk&amp;rdquo; is not only a concept of recent origi
     
     <item>
       <title>Participation</title>
-      <link>https://wildwater.hackinghistory.ca/assignment/participation/</link>
+      <link>https://wildwater.github.io/assignment/participation/</link>
       <pubDate>Wed, 06 Sep 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://wildwater.hackinghistory.ca/assignment/participation/</guid>
+      <guid>https://wildwater.github.io/assignment/participation/</guid>
       <description>Your participation mark is substantial (20%) and reflects the unusual nature of the seminar. The mark has two components:
  Each week at the start of class, you will hand in a piece of paper with a short quote from the readings and an accompanying question about the text. The question may (or may not) be used to as a discussion prompt for the class. During course discussions, you will be expected to participate actively.</description>
     </item>

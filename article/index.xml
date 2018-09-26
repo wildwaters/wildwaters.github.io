@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Articles on Wild Waters</title>
-    <link>https://wildwater.hackinghistory.ca/article/</link>
+    <link>https://wildwater.github.io/article/</link>
     <description>Recent content in Articles on Wild Waters</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://wildwater.hackinghistory.ca/article/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://wildwater.github.io/article/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About This Site</title>
-      <link>https://wildwater.hackinghistory.ca/article/about/</link>
+      <link>https://wildwater.github.io/article/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://wildwater.hackinghistory.ca/article/about/</guid>
+      <guid>https://wildwater.github.io/article/about/</guid>
       <description>This website is built with two technical tools: the Hugo static website generator and the org-mode exporter for Hugo. The site content is (mostly!) written in the org-mode syntax, using the Emacs text editor. When I need to make changes, I change the source code, export to Hugo, and then sync the changed web pages to a webserver. This sounds complicated but actually it&amp;rsquo;s extremely easy.
 The source text and some initial documentation are online at Github.</description>
     </item>
     
     <item>
       <title>Glossary</title>
-      <link>https://wildwater.hackinghistory.ca/article/glossary/</link>
+      <link>https://wildwater.github.io/article/glossary/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://wildwater.hackinghistory.ca/article/glossary/</guid>
+      <guid>https://wildwater.github.io/article/glossary/</guid>
       <description>This is a list of terms from the readings that seemed particularly enigmatic to me when I first encountered them. Please email me with suggestions if you think we should add more to this list!
  benthic: related to the lowest layers of a body of water, e.g. the sediments endemic: unique to a particular region (usually of a species, e.g., &amp;ldquo;the freshwater wetlands of the upper St. Lawrence estuary have many endemic plant species&amp;rdquo; hyporheic: a region beneath and alongside a stream bed, where there is mixing of shallow groundwater and surface water lacrustine: lake-like portions of a river system lentic: related to still fresh water littoral: the part of a lake or river that is near to the shore lotic: related to fast-moving fresh water oligotrophic: having low levels of nutrients periphyton: freshwater organisms attached to or clinging to plants and other objects projecting above the bottom sediments podzols: sandy, nutrient-poor soils like those found in much of the Ottawa River basin riparian: related to the shores of the river rotifers: small, usually microscopic &amp;amp; often planktonic, animals living in the water vascular plants: plants with xylem and phloem, i.</description>
     </item>
     
     <item>
       <title>Wild Water: History and Culture of Rivers</title>
-      <link>https://wildwater.hackinghistory.ca/article/wildwater-syllabus/</link>
+      <link>https://wildwater.github.io/article/wildwater-syllabus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://wildwater.hackinghistory.ca/article/wildwater-syllabus/</guid>
+      <guid>https://wildwater.github.io/article/wildwater-syllabus/</guid>
       <description>Logistics    Instructor: Matt Price     Email: matt.price@utoronto.ca   Office Hrs: SS 3077 T 1:30-2:45   Course Meetings: Wed 3-5, WE 52    About Wild Water This course explores the history and culture of rivers &amp;ndash; the &amp;ldquo;wild waters&amp;rdquo; which have played (and continue to play!) a pivotal role in so many of the world&amp;rsquo;s cultures. Like a river itself, the course meanders, rushes, then slows, ebbs and flows.</description>
     </item>
     
