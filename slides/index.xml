@@ -16,7 +16,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://wildwaters.github.io/slides/01-intro/</guid>
-      <description>Wild Waters: Introduction .underline { text-decoration: underline; }   if( window.location.search.match( /print-pdf/gi ) ) { var link = document.createElement( &#39;link&#39; ); link.rel = &#39;stylesheet&#39;; link.type = &#39;text/css&#39;; link.href = &#39;/vendor/revealjs//css/print/pdf.css&#39;; document.getElementsByTagName( &#39;head&#39; )[0].appendChild( link ); }    $.featherlight.defaults.closeOnClick=&#34;anywhere&#34;;    Welcome to Wild Waters      Instructor: Matt Price   Website: https://wildwaters.github.com   Classroom: WE 52       Why Rivers?</description>
+      <description>Wild Waters: Introduction .underline { text-decoration: underline; }   if( window.location.search.match( /print-pdf/gi ) ) { var link = document.createElement( &#39;link&#39; ); link.rel = &#39;stylesheet&#39;; link.type = &#39;text/css&#39;; link.href = &#39;/vendor/revealjs//css/print/pdf.css&#39;; document.getElementsByTagName( &#39;head&#39; )[0].appendChild( link ); }    $.featherlight.defaults.closeOnClick=&#34;anywhere&#34;;   Wild Waters: IntroductionMatt PriceCreated: 2018-09-27 Thu 16:29
+  Welcome to Wild Waters      Instructor: Matt Price   Website: https://wildwaters.github.com   Classroom: WE 52       Why Rivers?</description>
     </item>
     
     <item>
@@ -25,7 +26,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://wildwaters.github.io/slides/02-what-is-a-river/</guid>
-      <description>What is a River? .underline { text-decoration: underline; }   if( window.location.search.match( /print-pdf/gi ) ) { var link = document.createElement( &#39;link&#39; ); link.rel = &#39;stylesheet&#39;; link.type = &#39;text/css&#39;; link.href = &#39;/vendor/revealjs//css/print/pdf.css&#39;; document.getElementsByTagName( &#39;head&#39; )[0].appendChild( link ); }    $.featherlight.defaults.closeOnClick=&#34;anywhere&#34;;      &amp;ldquo;Water is the Driver of Nature&amp;rdquo; &amp;#x2013; Da Vinci, Thoughts on Art and Life, 1508(ish)   Da Vinci, 1508 (ish), THoughts on Art and Life Part of a broader investigation of water.</description>
+      <description>What is a River? .underline { text-decoration: underline; }   if( window.location.search.match( /print-pdf/gi ) ) { var link = document.createElement( &#39;link&#39; ); link.rel = &#39;stylesheet&#39;; link.type = &#39;text/css&#39;; link.href = &#39;/vendor/revealjs//css/print/pdf.css&#39;; document.getElementsByTagName( &#39;head&#39; )[0].appendChild( link ); }    $.featherlight.defaults.closeOnClick=&#34;anywhere&#34;;   What is a River?Matt PriceCreated: 2018-09-28 Fri 09:55
+    &amp;ldquo;Water is the Driver of Nature&amp;rdquo; &amp;#x2013; Da Vinci, Thoughts on Art and Life, 1508(ish)   Da Vinci, 1508 (ish), THoughts on Art and Life Part of a broader investigation of water.</description>
     </item>
     
     <item>
@@ -34,7 +36,18 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://wildwaters.github.io/slides/03-liquid-history/</guid>
-      <description>03 Liquid History .underline { text-decoration: underline; }   if( window.location.search.match( /print-pdf/gi ) ) { var link = document.createElement( &#39;link&#39; ); link.rel = &#39;stylesheet&#39;; link.type = &#39;text/css&#39;; link.href = &#39;/vendor/revealjs//css/print/pdf.css&#39;; document.getElementsByTagName( &#39;head&#39; )[0].appendChild( link ); }    $.featherlight.defaults.closeOnClick=&#34;anywhere&#34;;      &amp;ldquo;The Thames is liquid history&amp;rdquo; - Response by John Burns to American who claimed greatness of Mississippi over the Thames.  what did the mean?</description>
+      <description>03 Liquid History + St. Lawrence .underline { text-decoration: underline; }   if( window.location.search.match( /print-pdf/gi ) ) { var link = document.createElement( &#39;link&#39; ); link.rel = &#39;stylesheet&#39;; link.type = &#39;text/css&#39;; link.href = &#39;/vendor/revealjs//css/print/pdf.css&#39;; document.getElementsByTagName( &#39;head&#39; )[0].appendChild( link ); }    $.featherlight.defaults.closeOnClick=&#34;anywhere&#34;;   03 Liquid History + St. LawrenceMatt PriceCreated: 2018-09-28 Fri 09:55
+    I have seen the Mississippi. That is muddy water. I have seen the St Lawrence.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://wildwaters.github.io/slides/test-only/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://wildwaters.github.io/slides/test-only/</guid>
+      <description>Test only .underline { text-decoration: underline; }   if( window.location.search.match( /print-pdf/gi ) ) { var link = document.createElement( &#39;link&#39; ); link.rel = &#39;stylesheet&#39;; link.type = &#39;text/css&#39;; link.href = &#39;/vendor/revealjs//css/print/pdf.css&#39;; document.getElementsByTagName( &#39;head&#39; )[0].appendChild( link ); }    $.featherlight.defaults.closeOnClick=&#34;anywhere&#34;;   Test onlyMatt PriceCreated: 2018-09-28 Fri 09:32
+  first slide    second slide   sub-slide        // Full list of configuration options available here: // https://github.</description>
     </item>
     
   </channel>
